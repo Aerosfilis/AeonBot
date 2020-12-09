@@ -1,0 +1,16 @@
+{
+  "name": "aeonbot",
+  "version": "0.1.0",
+  "description": "https://discord.com/api/oauth2/authorize?client_id=312849699344482304&permissions=29883456&scope=bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Aerosfilis",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "devDependencies": {}
+}
